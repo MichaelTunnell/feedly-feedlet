@@ -9,7 +9,7 @@
 - [Installation](#install)
 - [Video Demo](#screenshots)
 
-## Mosaic Userstyle for Feedly<a name="description"></a>
+## Feedlet - Universal Subscribing Bookmarklet for Feedly.com<a name="description"></a>
 
 [Feedly](http://feedly.com/) is a great option for a hosted RSS feed service. For those who don't know, Feedly is a cross-platform and cross-browser [RSS Reader](http://youtu.be/0klgLsSxGsU) app. I have used Feedly off and on for years but due to the closure of Google Reader, Feedly has become a vastly more dominant force in the RSS realm. Feedly has a LOT of great features and tools but there was one thing I wanted to be a little bit easier, the process for adding new feeds (subscriptions) to the application. I created this Bookmarklet to solve this problem. This bookmarklet works on all browsers and operating systems (except mobile) that Feedly supports and is ridiculously easy to use.
 
